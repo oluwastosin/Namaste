@@ -52,7 +52,7 @@ header button {
   border: none;
   border-radius: 3px;
   color: white;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 .imgdiv {
   background-color: #ca9277;
